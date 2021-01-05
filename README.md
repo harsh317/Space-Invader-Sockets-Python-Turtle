@@ -18,3 +18,4 @@ This is a interesting Space Invader Game in which 1 player is the enemy and othe
 - Sometimes when you fire 2 bullets get fired in the server side or the opponents side when the client fires it.Fix It
 - when second players enters you need to move the enemy to start the game.Fix so it doesn't Happen
 - When sclient waits for the server or vice versa show a waiting bgpic
+- Add obstecles for the enemy[like flying asteroids] and the Player[asteroids sometimes hit the bullet thus protecting enemy]
